@@ -22,11 +22,11 @@ The specialization consists of 3 beginner-friendly courses aimed at mastering fu
    - **Certificate**: [Link to Certificate](https://www.coursera.org/account/accomplishments/certificate/KSC2VF8B8NVL)
 
 3. **Course 3**: [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
-   - **Certificate**: [Link to Certificate]
+   - **Certificate**: [Link to Certificate](https://www.coursera.org/account/accomplishments/certificate/P8HD62WH5G25)
 
 ## Certificate
 
-The final specialization certificate for this program can be found [here](Link to the certificate).
+The final specialization certificate for this program can be found [here](https://www.coursera.org/account/accomplishments/specialization/certificate/MPJD8WZEPWSG).
 
 ## License
 
